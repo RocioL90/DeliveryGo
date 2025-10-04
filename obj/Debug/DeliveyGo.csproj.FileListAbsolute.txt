@@ -1,0 +1,8 @@
+C:\Users\laira\OneDrive\Documentos\Rocio\Programacion II\Actividad Integral - Patrones de Diseño\DeliveyGo\DeliveyGo\obj\Debug\DeliveyGo.csproj.AssemblyReference.cache
+C:\Users\laira\OneDrive\Documentos\Rocio\Programacion II\Actividad Integral - Patrones de Diseño\DeliveyGo\DeliveyGo\obj\Debug\DeliveyGo.csproj.CoreCompileInputs.cache
+C:\Users\laira\OneDrive\Documentos\Rocio\Programacion II\Actividad Integral - Patrones de Diseño\DeliveyGo\DeliveyGo\bin\Debug\DeliveyGo.exe.config
+C:\Users\laira\OneDrive\Documentos\Rocio\Programacion II\Actividad Integral - Patrones de Diseño\DeliveyGo\DeliveyGo\bin\Debug\DeliveyGo.exe
+C:\Users\laira\OneDrive\Documentos\Rocio\Programacion II\Actividad Integral - Patrones de Diseño\DeliveyGo\DeliveyGo\bin\Debug\DeliveyGo.pdb
+C:\Users\laira\OneDrive\Documentos\Rocio\Programacion II\Actividad Integral - Patrones de Diseño\DeliveyGo\DeliveyGo\obj\Debug\DeliveyGo.exe
+C:\Users\laira\OneDrive\Documentos\Rocio\Programacion II\Actividad Integral - Patrones de Diseño\DeliveyGo\DeliveyGo\obj\Debug\DeliveyGo.pdb
+C:\Users\laira\OneDrive\Documentos\Rocio\Programacion II\Actividad Integral - Patrones de Diseño\DeliveyGo\DeliveyGo\obj\Debug\DeliveyGo.exe.config
